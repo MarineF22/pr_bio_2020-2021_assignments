@@ -1,0 +1,24 @@
+>21 base pair sequence with 4 ambiguities
+ATGAVCCCRAAHTTTNCACAC
+
+>Possible unambiguous sequence 1
+ATGAGCCCGAAATTTGCACAC 
+
+>Possible unambiguous sequence 2
+ATGACCCCAAACTTTACACAC
+
+>Possible unambiguous sequence 3
+ATGAACCCGAATTTTCCACAC
+
+
+>Reverse of the sequence 1
+CACACGTTTAAAGCCCGAGTA
+
+>Complement of the sequence 1
+TACTCGGGCTTTAAACGTGTG
+
+>Reverse-complement of the sequence 1
+GTGTGCAAATTTCGGGCTCAT
+
+>Amino-acid chain of the sequence 1 (one letter code) 
+MSPKFAH
